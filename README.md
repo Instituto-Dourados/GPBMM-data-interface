@@ -1,8 +1,8 @@
-# Coronavac Cohort: Indigenous Public Health & Modeling
+# Data Interface for Analyzing Incidence Data from the Grupo de Pesquisa em Biologia Molecular de Microorganismos (GPBMM)
 
 ## Project Context
 
-This repository provides a **Data Reader** and **Visualization Dashboard** for utilizing Indigenous epidemic data, specifically gathered by the Grupo de Pesquisa e . It is designed to bridge the gap between field data collection in Google Sheets and high-level computational social science.
+This repository provides a **Data Reader** and **Visualization Dashboard** for utilizing Indigenous epidemic data, specifically gathered by the Grupo de Pesquisa em Biologia Molecular de Microorganismos, led by Professor Simone Simionatto at the Universidade Federal de Grande Dourados in Dourados, Mato Grosso do Sul, Brazil. It is designed to bridge the gap between field data stored in Google Sheets and analysis projects that reuse this data.
 
 ### Scientific Objective: Generative Modeling
 
